@@ -18,3 +18,20 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+**Identification**     
+Discord-id:      
+UnUniFi wallet address:      
+
+**CheckLists**    
+- [ ] followed the rule of [naming title](https://github.com/UnUniFi/beta-test#title-rule)
+- [ ] checked whether this feature request is not duplicated before
+- [ ] took a screenshot that the part is included
+- [ ] enterd discord id
+- [ ] entered UnUniFi wallet address
+- [ ] entered all required points
+
+**Community Program Status**
+- [ ] submit a feature request to the correct github repository in a right way
+- [ ] developers admitted the feature is needed to be improved
+- [ ] make sure the feature improved by commenting under this issue while following the CheckLists rules
