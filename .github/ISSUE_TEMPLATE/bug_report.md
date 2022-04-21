@@ -42,9 +42,14 @@ Discord-id:
 UnUniFi wallet address:      
 
 **CheckLists**    
-- [ ] followed the rule of naming title
+- [ ] followed the rule of [naming title](https://github.com/UnUniFi/beta-test#title-rule)
 - [ ] checked whether this issue is not duplicated before
 - [ ] took a screenshot that the part of the issue is included
 - [ ] enterd discord id
 - [ ] entered UnUniFi wallet address
 - [ ] entered all required points
+
+**Community Program status**
+- [ ] submit a bug report to the correct github repository in a right way
+- [ ] The developers admitted the bug is needed to be fixed
+- [ ] make sure the bug fixed by commenting under this issue while following the CheckLists rules
