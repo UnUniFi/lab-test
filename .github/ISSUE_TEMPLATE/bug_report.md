@@ -34,5 +34,17 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional context**
+**Additional context**    
 Add any other context about the problem here.
+
+**Identification**     
+Discord-id:      
+UnUniFi wallet address:      
+
+**CheckLists**    
+- [ ] followed the rule of naming title
+- [ ] checked whether this issue is not duplicated before
+- [ ] took a screenshot that the part of the issue is included
+- [ ] enterd discord id
+- [ ] entered UnUniFi wallet address
+- [ ] entered all required points
