@@ -1,4 +1,4 @@
-# beta-test
+# lab-test
 The beta test is the experimental test environment for the new features with [community program](https://medium.com/@ununifi/ununifi-community-program-ambassador-program-e0d3cfc3573e).  
 
 
